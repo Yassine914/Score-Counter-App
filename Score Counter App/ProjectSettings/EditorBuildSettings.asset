@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Splash Screen.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Mode Select Screen.unity
+    guid: a739d38146adfa74c8664fcd549866b0
+  - enabled: 1
+    path: Assets/Scenes/Count Up Mode Screen.unity
+    guid: f8bd4faf55c29b74aa01e60a1f254261
+  - enabled: 1
+    path: Assets/Scenes/Count Down Mode Screen.unity
+    guid: f3207be8bbe30a440aa7ec0cc58cfb06
+  m_configObjects: {}
